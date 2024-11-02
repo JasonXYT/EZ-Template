@@ -37,9 +37,9 @@ const sidebars = {
           items: [
             'tutorials/installation',
             'tutorials/upgrading',
-            'tutorials/using_auton_selector',
-            'tutorials/autons',
             'tutorials/example_autons',
+            'tutorials/autons',
+            'tutorials/using_auton_selector',
             'tutorials/intake_control'
           ],
         },
