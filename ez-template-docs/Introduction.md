@@ -10,7 +10,7 @@ preview: /img/embed.png
 ![](https://github.com/EZ-Robotics/EZ-Template/workflows/Build/badge.svg)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
-**EZ-Template is a simple plug-and-play PROS template for drivetrains.**
+**THIS IS A FORK OF THE OFFICAL EZ-TEMPLATE. ALL RIGHTS AND CREDIT GO TO THEM. Offical website https://ez-robotics.github.io/EZ-Template/. EZ-Template is a simple plug-and-play PROS template for drivetrains.**
 [![Image](7686B.jpg)](https://github.com/EZ-Robotics/EZ-Template/releases/latest/download/EZ-Template-Example-Project.zip)
 
 ## Features
@@ -32,8 +32,8 @@ preview: /img/embed.png
 - Exposed PID class for use with your other subsystems
 - Exposed slew class for gradual speed ramp-up for your other subsystems
 
-## [Support me on Patreon!](https://www.patreon.com/roboticsisez)
-Supporting me on Patreon will help guarantee that EZ-Template continues to get maintained and allow me to develop products for teams to use.  [Click here](https://www.patreon.com/roboticsisez) to see my Patreon!
+## [Support ez-template on Patreon!](https://www.patreon.com/roboticsisez)
+Supporting ez-template on Patreon will help guarantee that EZ-Template continues to get maintained and allow me to develop products for teams to use.  [Click here](https://www.patreon.com/roboticsisez) to see ez-template Patreon!
 
 ## [Download](https://github.com/EZ-Robotics/EZ-Template/releases/latest/download/EZ-Template-Example-Project.zip)
 Download the latest example project [here](https://github.com/EZ-Robotics/EZ-Template/releases/latest/download/EZ-Template-Example-Project.zip).  
