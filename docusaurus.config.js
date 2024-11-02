@@ -11,7 +11,7 @@ import lightCode from './src/utils/codeLight.ts';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'EZ-Template',
+  title: 'WMEZ-Template',
   tagline: 'robotics is ez',
   favicon: 'img/favicon.ico',
 
