@@ -122,7 +122,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/embed.png',
       navbar: {
-        title: 'EZ-Template',
+        title: 'WMEZ-Template',
         items: [
           {
             type: 'docsVersionDropdown',
