@@ -146,7 +146,7 @@ const config = {
             title: 'Learn',
             items: [
               {
-                label: 'EZ-Template',
+                label: 'WMEZ-Template',
                 to: '/',
               },
               {
@@ -198,7 +198,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} robotics is ez - built with docusaurus`,
+        copyright: `Copyright © ${new Date().getFullYear()} robotics is ez - built with docusaurus - all credit goes to ez-template`,
       },
       prism: {
         theme: lightCode,
