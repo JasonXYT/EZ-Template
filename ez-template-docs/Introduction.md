@@ -1,7 +1,7 @@
 ---
-title: EZ-Template
+title: WMEZ-Template
 slug: /
-description: Simple plug-and-play PROS template that handles drive base functions,
+description: THIS IS A FORK OF THE OFFICAL EZ-TEMPLATE. ALL RIGHTS AND CREDIT GO TO THEM. Offical website https://ez-robotics.github.io/EZ-Template/. Simple plug-and-play PROS template that handles drive base functions,
   autonomous selector, input curves, and active brake with PTO support.
 image: /img/embed.png
 preview: /img/embed.png
